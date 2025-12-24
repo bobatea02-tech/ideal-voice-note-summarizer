@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Whisper models (large files)
+*.pt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# API Keys (IMPORTANT!)
+.env
+config.py
+secrets.toml
+
+# Temporary files
+*.tmp
+*.temp
+temp_audio/
+uploads/
+
+# Logs
+*.log
+
+# Distribution
+dist/
+build/
+*.egg-info/
