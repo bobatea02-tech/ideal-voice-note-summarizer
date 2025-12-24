@@ -236,4 +236,5 @@ Suggestions and improvements welcome! Open an issue or submit a pull request.
 
 **Built with:** Python • Streamlit • OpenAI Whisper • GPT-3.5
 
-**Made by:** [Your Name] | [GitHub](https://github.com/yourusername)
+**Made by:** Parthi Gadher | [GitHub](https://github.com/bobatea02-tech)
+
